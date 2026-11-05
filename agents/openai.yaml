@@ -1,0 +1,4 @@
+interface:
+  display_name: "Does My CI Suck?"
+  short_description: "Diagnose CI gaps, failures, latency, and waste"
+  default_prompt: "Use $does-my-ci-suck to audit this repository’s CI, identify visibility gaps, and recommend evidence-backed improvements."
